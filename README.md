@@ -57,9 +57,10 @@
 </p>
 
 ## 📊 GitHub Stats:
+![Manujdixit's Stats](https://github-readme-stats.vercel.app/api?username=Manujdixit&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Manujdixit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manujdixit&theme=dark&hide_border=true)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manujdixit&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manujdixit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manujdixit&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ### ✍️ Random Dev Quote
