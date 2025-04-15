@@ -8,9 +8,8 @@
 
 [![Github](https://img.shields.io/github/followers/manujdixit?label=Follow&style=social)](https://github.com/manujdixit)
 
-- 💻 Currently working as Full Stack Developer intern at Seetaara.
+- 💻 Currently working as Full Stack Developer intern at Cohyve.
 - 🤔 I am interested in building scalable and efficient systems. And love to work on innovative projects.
-- 🌱 Currently working on a side project AUTOMeeT
 - 📫 How to reach me: manujdixit04@gmail.com
 
 
