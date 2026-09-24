@@ -15,8 +15,9 @@
 ### 🖥 Skills
 
 - AI Agents
-- Frontend/Backend Development
+- Scalable Backend
 - Database modelling
+- Cloud deployments
 
 <div>
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=manujdixit&" alt="manujdixit" />
